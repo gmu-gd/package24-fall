@@ -27,6 +27,28 @@ Students will participate in all aspects of the development, design, assembly an
 * Exercise good time management skills
 * Build skills when working within a group
 
+### Required Materials
+* Cutting Tool (Olfa, Xacto, etc.)
+* Extra Blades
+* Cutting Mat (12x18 minimum)
+* Metal, cork backed ruler (18 inches minimum)
+* Scissors
+* Glue stick
+* Tacky Glue (Aleene’s, Sobo)
+* Clear Tape
+* Masking Tape
+
+### As Needed Materials
+* Cardboard
+* Chipboard
+* Paper
+* Wood
+* Arylic
+
+### Required Software
+* Adobe CC
+* Tinkercad (free and web based)
+
 ### Content
 This class consists of  shorter exercises, in-class demos and workshops, and longer projects. The exercises, demos, and workshops are meant to build skills and learn new concepts and the projects are a place to demonstrate your understanding and ability to combine those skills and concepts.
 
