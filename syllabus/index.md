@@ -43,7 +43,7 @@ Students will participate in all aspects of the development, design, assembly an
 * Chipboard
 * Paper
 * Wood
-* Arylic
+* Acrylic
 
 ### Required Software
 * Adobe CC
