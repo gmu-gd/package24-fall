@@ -19,7 +19,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * E1: Question Cube
 
 ---
-
+<!-- mix -->
 ### September 5 &mdash; Week 2
 #### Outline for the Day
 * The MIX orientation
@@ -32,10 +32,12 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 
 ---
 
+<!-- mix -->
 ### September 12 &mdash; Week 3
 #### Outline for the Day
 * E3: MYOD
 * Demo: Tinkercad
+* Demo: 3D Printer
 * P1: Starter Pack
 
 #### Due Next Class
@@ -65,7 +67,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P1.3: Checkpoint 3
 
 ---
-
+<!-- mix -->
 ### October 3 &mdash; Week 6
 #### Outline for the Day
 * P1.3: Small group critiques
@@ -74,7 +76,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P1.4: Checkpoint 4
 
 ---
-
+<!-- mix -->
 ### October 10 &mdash; Week 7
 #### Outline for the Day
 * P1.4: Individual check ins
@@ -104,7 +106,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.3: Checkpoint 3
 
 ---
-
+<!-- mix -->
 ### October 31 &mdash; Week 10
 #### Outline for the Day
 * P2.3: Individual critiques
@@ -113,7 +115,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.4: Checkpoint 4
 
 ---
-
+<!-- mix  -->
 ### November 7 &mdash; Week 11
 #### Outline for the Day
 * P2.4: Group check ins
@@ -122,7 +124,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.5: Checkpoint 5
 
 ---
-
+<!-- mix -->
 ### November 14 &mdash; Week 12
 * P2.5: Individual check ins
 
@@ -130,7 +132,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.6: Checkpoint 6
 
 ---
-
+<!-- mix -->
 ### November 21 &mdash; Week 13
 #### Outline for the Day
 * P2.6: Group critiques
