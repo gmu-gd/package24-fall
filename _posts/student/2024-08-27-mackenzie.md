@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 author: Michael McDermott
-title: mackenzie
+title: mack
 categories: [student]
 link: #
 ---
