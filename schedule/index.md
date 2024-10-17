@@ -78,6 +78,11 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 ---
 <!-- mix -->
 ### October 10 &mdash; Week 7
+No Class
+
+---
+
+### October 17 &mdash; Week 8
 #### Outline for the Day
 * P1.4: Individual check ins
 * P2: Form + Function
@@ -88,8 +93,7 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 
 ---
 
-### October 17 &mdash; Week 8
-#### Outline for the Day
+### October 24 &mdash; Week 9
 * P1 Final: Final critiques
 * P2.1: Quick individual check ins
 
@@ -97,8 +101,8 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.2: Checkpoint 2
 
 ---
-
-### October 24 &mdash; Week 9
+<!-- mix -->
+### October 31 &mdash; Week 10
 #### Outline for the Day
 * P2.2: Pitch meetings
 
@@ -106,8 +110,8 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.3: Checkpoint 3
 
 ---
-<!-- mix -->
-### October 31 &mdash; Week 10
+<!-- mix  -->
+### November 7 &mdash; Week 11
 #### Outline for the Day
 * P2.3: Individual critiques
 
@@ -115,8 +119,8 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 * P2.4: Checkpoint 4
 
 ---
-<!-- mix  -->
-### November 7 &mdash; Week 11
+<!-- mix -->
+### November 14 &mdash; Week 12
 #### Outline for the Day
 * P2.4: Group check ins
 
@@ -125,26 +129,21 @@ If you want to know what is due for next class, [check here]({{ site.baseurl }}/
 
 ---
 <!-- mix -->
-### November 14 &mdash; Week 12
+### November 21 &mdash; Week 13
+#### Outline for the Day
 * P2.5: Individual check ins
 
 #### Due Next Class
 * P2.6: Checkpoint 6
-
----
-<!-- mix -->
-### November 21 &mdash; Week 13
-#### Outline for the Day
-* P2.6: Group critiques
-
-#### Due Next Class
-* P2 Final
 
 
 ---
 
 ### November 28 &mdash; Week 14
 No class, Thanksgiving break.
+
+#### Due Next Class
+* P2 Final
 
 ---
 
